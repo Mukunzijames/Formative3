@@ -15,8 +15,8 @@
 Formative3/
 ├── README.md                                   ← You are here
 ├── CONTRIBUTIONS.md                            ← Team responsibilities (source)
-├── CONTRIBUTIONS.pdf                           ← ⚠️ REQUIRED for submission
-├── Formative3_Notebook.ipynb                   ← ⚠️ PRIMARY DELIVERABLE
+├── CONTRIBUTIONS.pdf                           ←  REQUIRED for submission
+├── Formative3_Notebook.ipynb                   ←  PRIMARY DELIVERABLE
 ├── data/
 │   ├── education_africa.csv                    ← Part 1 dataset (download below)
 │   └── imdb_reviews.csv                        ← Part 2 dataset (download below)
@@ -29,13 +29,13 @@ Formative3/
 │   ├── gradient_descent.py                     ← Part 4: Coded GD (Ryan)
 │   └── visualization.py                        ← Shared: visualisation helpers
 ├── manual_calculations/
-│   └── Part3_Manual_Gradient_Descent.pdf       ← ⚠️ REQUIRED: handwritten scans
+│   └── Part3_Manual_Gradient_Descent.pdf       ←  REQUIRED: handwritten scans
 └── requirements.txt
 ```
 
 ---
 
-## ⬇️ Dataset Downloads
+## ⬇ Dataset Downloads
 
 ### Part 1 — Education in Africa (James)
 
@@ -67,7 +67,7 @@ Steps:
 
 ---
 
-## 🚀 Setup and Running
+##  Setup and Running
 
 ```bash
 # 1. Install dependencies
