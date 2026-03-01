@@ -4,7 +4,7 @@ This directory contains handwritten manual calculations for Part 3 of Formative 
 
 ## Required File
 
-**File to add:** `Question3_calculation.pdf`
+**File to add:** `Part 3 - Manual Calculation of Gradient Descent.pdf`
 
 ## Instructions for Creating the PDF
 
