@@ -82,6 +82,9 @@ jupyter notebook Formative3_Notebook.ipynb
 Run all cells top-to-bottom. Every cell must show output.
 
 ---
+## Team Task Sheet
+
+https://github.com/Mukunzijames/Formative3/blob/main/Team%20Task%20Sheet_%5BFormative%203_C1_Group%205%20%5D%20-%201.pdf
 
 ## 📦 Dependencies
 
